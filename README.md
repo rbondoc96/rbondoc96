@@ -1,14 +1,36 @@
+<style>
+span img {
+    margin: 0 5px;
+}
+</style>
+
 # Rodrigo Bondoc - #BlackLivesMatter #AllBlackLivesMatter
 
 Hi there! I'm Rodrigo (he/him/his) -- a software developer specializing in Python and JavaScript to build things for the web. I'm an Electrical Engineer turned software developer after falling in love with web development. I enjoy using my knowledge of hardware and networks together with my software skills to understand and solve problems 🤓
 
 I'm based in San Diego, CA 🌞🌊. I'm a big video game nerd/geek (PC, PS4), Pop/House/R&B music lover 🎶, and a wanderer ✈
 
+I'm interested in working on and expanding my knowledge in both front-end and back-end languages and technologies, such as ReactJS, APIs, RESTful services, and SQL databases
+
 ## My Values
 🌈 Inclusivity<br>
 🌟 Authenticity in self<br>
 🤗 Understanding of others<br>
 🙏🏽 Kindness towards our fellow humans<br>
+
+## Programming Languages
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width=40 height=40 title="Python"></span>
+<span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width=40 height=40 title="JavaScript"></span>
+
+## Libraries and Frameworks
+<span><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width=50 height=50 title="JQuery"></span>
+<span><img src="https://camo.githubusercontent.com/e525376ec6dcb71852a057a1acbae994ff8d14f1/687474703a2f2f676574626f6f7473747261702e636f6d2f6170706c652d746f7563682d69636f6e2e706e67" width=50 height=50 title="Bootstrap"></span>
+<span><img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" height=50 title="React JS"></span>
+<span><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=50 title="Django"></span>
+
+## Tools
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40 height=40 title="VSCode"></span>
+<span><img src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" width=40 height=40 title="Webpack"></span>
 
 ## My Current Projects
 <ul>
