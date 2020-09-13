@@ -25,7 +25,7 @@ I'm a problem solver 😎 My motivation is that when I'm given a problem, I want
     <li><a href="https://stackoverflow.com/users/14271589/rbondoc96">Stack Overflow</a></li>
 </ul>
 
-## Orgs to Donate to Support #BLM and Black Trans Lives
+## Orgs to Donate to Support #BLM and Black LGBTQ+ Lives
 <ul>
     <li><a href="https://www.joincampaignzero.org/">Campaign Zero</a></li>
     <li><a href="https://www.blackvisionsmn.org/">Black Visions Collective</a></li>
