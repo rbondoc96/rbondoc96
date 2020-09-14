@@ -1,10 +1,10 @@
 # Rodrigo Bondoc - #BlackLivesMatter #AllBlackLivesMatter
 
-Hi there! I'm Rodrigo (he/him/his) -- a software developer specializing in Python and JavaScript to build things for the web. I'm an Electrical Engineer turned software developer after falling in love with web development. I enjoy using my knowledge of hardware and networks together with my software skills to understand and solve problems 🤓
+Hi there! I'm Rodrigo (he/him/his) -- a software developer specializing in Python and JavaScript to build things for the web. I'm an electrical engineer turned software developer after falling in love with web development. 
 
-I'm based in San Diego, CA 🌞🌊. I'm a big video game nerd/geek (PC, PS4), Pop/House/R&B music lover 🎶, and a wanderer ✈
+As an engineer, I've worked with embedded technologies written in C/C++ while debugging and testing the circuitry. I enjoy using my knowledge gained through EE along with my software skills to understand and solve problems 🤓
 
-I'm interested in working on and expanding my knowledge in both front-end and back-end languages and technologies, such as ReactJS, APIs, RESTful services, and SQL databases
+I'm based in San Diego, CA 🌞🌊. I'm a big video game nerd (PC, PS4), a Pop/House/R&B music lover 🎶, and a wanderer ✈
 
 ## My Values
 🌈 Inclusivity<br>
