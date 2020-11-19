@@ -31,6 +31,7 @@ When I'm given a problem, I aim to understand the situation or system that I'm g
 ### Tools and Databases
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40 height=40 title="VSCode" style="margin: 0 5px;"></span>
 <span><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width=40 height=40 title="Webpack" style="margin: 0 5px;"></span>
+<span><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width=40 height=40 title="PostgreSQL" style="margin: 0 5px;"></span>
 
 
 ## My Current Projects
