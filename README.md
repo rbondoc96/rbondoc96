@@ -18,21 +18,21 @@ When I'm given a problem, I aim to understand the situation or system that I'm g
 
 ## Technologies I'm Familiar With
 ### Programming Languages
-<span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width=40 height=40 title="C/C++" style="margin: 0 5px;"></span>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width=40 height=40 title="Python" style="margin: 0 5px;"></span>
-<span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width=40 height=40 title="JavaScript" style="margin: 0 5px;"></span>
+<span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height=40 title="C/C++" style="margin: 0 5px;"></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height=40 title="Python" style="margin: 0 5px;"></span>
+<span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" height=40 title="JavaScript" style="margin: 0 5px;"></span>
 
 ### Libraries and Frameworks
-<span><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" width=50 height=50 title="JQuery" style="margin: 0 5px;"></span>
-<span><img src="https://camo.githubusercontent.com/e525376ec6dcb71852a057a1acbae994ff8d14f1/687474703a2f2f676574626f6f7473747261702e636f6d2f6170706c652d746f7563682d69636f6e2e706e67" width=50 height=50 title="Bootstrap" style="margin: 0 5px;"></span>
+<span><img src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" height=50 title="JQuery" style="margin: 0 5px;"></span>
+<span><img src="https://camo.githubusercontent.com/e525376ec6dcb71852a057a1acbae994ff8d14f1/687474703a2f2f676574626f6f7473747261702e636f6d2f6170706c652d746f7563682d69636f6e2e706e67" height=50 title="Bootstrap" style="margin: 0 5px;"></span>
 <span><img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" height=50 title="React JS" style="margin: 0 5px;"></span>
 <span><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=50 title="Django" style="margin: 0 5px;"></span>
 
 ### Tools and Databases
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" width=40 height=40 title="VSCode" style="margin: 0 5px;"></span>
-<span><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width=40 height=40 title="Webpack" style="margin: 0 5px;"></span>
-<span><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width=40 height=40 title="PostgreSQL" style="margin: 0 5px;"></span>
-
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=40 title="VSCode" style="margin: 0 5px;"></span>
+<span><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height=40 title="Webpack" style="margin: 0 5px;"></span>
+<span><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height=40 title="PostgreSQL" style="margin: 0 5px;"></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height=40 title="MATLAB" style="margin: 0 5px;"></span>
 
 ## My Current Projects
 <ul>
