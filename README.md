@@ -5,7 +5,7 @@ I'm based in San Diego, CA 🌞🌊. I'm a big video game nerd (PC, PS4), a Pop/
 
 I got my B.S. in Electrical Engineering from San Diego State University, where I focused on Analog and Digital Signal Processing and Communications, Computer Networks, and achieved a minor in Computer Science.
 
-So far in my career, I've worked with embedded technologies written in C/C++ for a Linux system and debugged and tested radio devices that interfaced with the application. Over the past few months, I've been teaching myself the dogma of web application development, from learning front-end JavaScript, to expanding on my Python knowledge from college by learning Django.
+So far in my career, I've worked with embedded technologies written in C/C++ for a Linux system and debugged and tested radio devices that interfaced with the application. Over the past few months, I've been teaching myself how to develop web applications, from learning front-end JavaScript and React, to expanding on my Python knowledge from college by learning Django.
 
 ## My Values
 🌈 Inclusivity<br>
@@ -19,6 +19,7 @@ When I'm given a problem, I aim to understand the situation or system that I'm g
 ## Technologies I'm Familiar With
 ### Programming Languages
 <span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height=40 title="C/C++" style="margin: 0 5px;"></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height=40 title="MATLAB" style="margin: 0 5px;"></span>
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height=40 title="Python" style="margin: 0 5px;"></span>
 <span><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" height=40 title="JavaScript" style="margin: 0 5px;"></span>
 
@@ -32,7 +33,6 @@ When I'm given a problem, I aim to understand the situation or system that I'm g
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=40 title="VSCode" style="margin: 0 5px;"></span>
 <span><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height=40 title="Webpack" style="margin: 0 5px;"></span>
 <span><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height=40 title="PostgreSQL" style="margin: 0 5px;"></span>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height=40 title="MATLAB" style="margin: 0 5px;"></span>
 
 ## My Current Projects
 <ul>
