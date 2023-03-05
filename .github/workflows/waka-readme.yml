@@ -14,5 +14,3 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SECTION_NAME: wakatime_stats
-          COMMIT_MESSAGE: Update README with new WakaTime metrics
