@@ -133,7 +133,7 @@ I currently work for a software and app development firm, developing web and mob
 
 ## 📊 GitHub Stats and Coding Activity
 
-<!--START_SECTION:wakatime_stats-->
-<!--END_SECTION:wakatime_stats-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rbondoc96&count_private=true&show_icons=true&theme=tokyonight&hide=stars">
