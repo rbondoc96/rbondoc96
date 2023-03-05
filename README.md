@@ -1,12 +1,12 @@
-<h1 style="color: #03EDF7; font-weight: 200; text-align: center">
-    Rodrigo Bondoc
-</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=300&size=28&duration=1&pause=1&color=03EDF7&center=true&vCenter=true&repeat=false&width=435&lines=Rodrigo+Bondoc">
+</p>
 
-<p style="text-align: center">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=03EDF7&center=true&vCenter=true&width=435&lines=Full-stack+software+engineer;Developing+web+and+mobile+apps;and+always+learning+new+things!">
 </p>
 
-<p style="text-align: center">
+<p align="center">
     <a href="mailto:rbondoc96@gmail.com">
         <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
@@ -18,10 +18,10 @@
     </a>
 </p>
 
-<p style="text-align: center">
+<p align="center">
 Hey there! 👋🏽 I'm Rodrigo, a full-stack software engineer from San Diego, CA, U.S.A. 🇺🇸
 </p>
-<p style="text-align: center">
+<p align="center">
 I currently work for a software and app development firm, developing web and mobile applications for various enterprise companies.
 </p>
 
