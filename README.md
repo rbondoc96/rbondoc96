@@ -1,6 +1,10 @@
-<h1 style="text-align: center">
-Welcome! 👋🏽
+<h1 style="color: #03EDF7; font-weight: 200; text-align: center">
+    Rodrigo Bondoc
 </h1>
+
+<p style="text-align: center">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=03EDF7&center=true&vCenter=true&width=435&lines=Full-stack+software+engineer;Developing+web+and+mobile+apps;and+always+learning+new+things!">
+</p>
 
 <p style="text-align: center">
     <a href="mailto:rbondoc96@gmail.com">
@@ -15,7 +19,7 @@ Welcome! 👋🏽
 </p>
 
 <p style="text-align: center">
-Hey there! I'm Rodrigo, a full-stack software engineer from San Diego, CA, U.S.A. 🇺🇸
+Hey there! 👋🏽 I'm Rodrigo, a full-stack software engineer from San Diego, CA, U.S.A. 🇺🇸
 </p>
 <p style="text-align: center">
 I currently work for a software and app development firm, developing web and mobile applications for various enterprise companies.
@@ -74,13 +78,9 @@ I currently work for a software and app development firm, developing web and mob
     </tr>
 </table>
 
----
+## 📊 GitHub Stats and Coding Activity
 
-<p style="text-align: center">
 <!--START_SECTION:wakatime_stats-->
 <!--END_SECTION:wakatime_stats-->
-</p>
 
-<p style="text-align: center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rbondoc96&count_private=true&show_icons=true&theme=tokyonight&hide=stars">
-</p>
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rbondoc96&count_private=true&show_icons=true&theme=tokyonight&hide=stars">
