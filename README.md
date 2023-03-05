@@ -1,54 +1,86 @@
-# Rodrigo Bondoc
+<h1 style="color: #03EDF7; font-weight: 200; text-align: center">
+    Rodrigo Bondoc
+</h1>
 
-Hi there! I'm Rodrigo (he/him/his) -- an Electrical Engineer and Software Developer. 
-I'm based in San Diego, CA 🌞🌊. I'm a big video game nerd (PC, PS4), a Pop/House/R&B music lover 🎶, and a wanderer ✈
+<p style="text-align: center">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=03EDF7&center=true&vCenter=true&width=435&lines=Full-stack+software+engineer;Developing+web+and+mobile+apps;and+always+learning+new+things!">
+</p>
 
-I graduated from San Diego State University with a B.S. in Electrical Engineering and a minor in Computer Science. Since then, I've worked with RF devices, embedded software written in C/C++ for Linux, and web and mobile applications. Over the past year, I've been teaching myself to develop web applications, from learning HTML, CSS, front-end JavaScript and React, and Django.
+<p style="text-align: center">
+    <a href="mailto:rbondoc96@gmail.com">
+        <img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/rbondoc96" target="_blank" rel="noreferrer">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://stackoverflow.com/users/14271589/rbondoc96" target="_blank" rel="noreferrer">
+        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+    </a>
+</p>
 
-## My Values
-🌈 Inclusivity<br>
-🌟 Authenticity in self<br>
-🤗 Understanding of others<br>
-🙏🏽 Kindness towards our fellow humans<br>
+<p style="text-align: center">
+Hey there! 👋🏽 I'm Rodrigo, a full-stack software engineer from San Diego, CA, U.S.A. 🇺🇸
+</p>
+<p style="text-align: center">
+I currently work for a software and app development firm, developing web and mobile applications for various enterprise companies.
+</p>
 
-## How I Work
-When I'm given a problem, I aim to understand the situation or system that I'm given as much as possible. I take satisfaction in being the person that understands how it all works and being a reliable person to come to for help.
+### Some Technologies I Have Experience With
 
-## Technologies I'm Familiar With
-### Programming Languages
-<span><img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" height=40 title="C/C++" style="margin: 0 5px;"></span>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height=40 title="MATLAB" style="margin: 0 5px;"></span>
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" height=40 title="Python" style="margin: 0 5px;"></span>
-<span><img src="https://coryrylan.com/assets/images/posts/types/javascript-800x800.png" height=40 title="JavaScript" style="margin: 0 5px;"></span>
+<table>
+    <tr>
+        <th>👨🏽‍💻 Currently Working With</th>
+        <th>🤓 Trying to Learn...</th>
+        <th>🧠 Familiar With or Used in the Past</th>
+    </tr>
+    <tr>
+        <td>
+            <p>
+                <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+                <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+                <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+                <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+                <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+                <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+                <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+                <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+                <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
+                <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+                <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+                <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+                <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+            </p>
+        </td>
+        <td>
+            <p>
+                <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+                <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08">
+                <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+                <img alt="SolidJS" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb">
+                <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+                <img alt="Tauri" src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF">
+                <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+                <img alt="Github Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+            </p>
+        </td>
+        <td>
+            <p>
+                <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+                <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+                <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+                <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+                <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+                <img alt="PNPM" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
+                <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+            </p>
+        </td>
+    </tr>
+</table>
 
-### Libraries and Frameworks
-<span><img src="https://raw.githubusercontent.com/rexxars/react-hexagon/HEAD/logo/react-hexagon.png" height=50 title="React JS" style="margin: 0 5px;"></span>
-<span><img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height=50 title="Django" style="margin: 0 5px;"></span>
+## 📊 GitHub Stats and Coding Activity
 
-### Tools and Databases
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=40 title="VSCode" style="margin: 0 5px;"></span>
-<span><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" height=40 title="Webpack" style="margin: 0 5px;"></span>
-<span><img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" height=40 title="PostgreSQL" style="margin: 0 5px;"></span>
+<!--START_SECTION:wakatime_stats-->
+<!--END_SECTION:wakatime_stats-->
 
-## My Current Projects
-<ul>
-    <li><a href="https://github.com/rbondoc96/https://github.com/rbondoc96/DBD-Game-Randomizer">Dead by Daylight Player Build Randomizer</a></li> 
-</ul>
-
-## Where to Find Me
-<ul>
-    <li><a href="https://www.linkedin.com/in/rbondoc96/">LinkedIn</a></li>
-    <li><a href="https://codepen.io/rbondoc96">CodePen</a></li>
-    <li><a href="https://stackoverflow.com/users/14271589/rbondoc96">Stack Overflow</a></li>
-</ul>
-
-## #AllBlackLivesMatter - Donate Here to Support #BLM and Black LGBTQIA+ People
-<ul>
-    <li><a href="https://www.joincampaignzero.org/">Campaign Zero</a></li>
-    <li><a href="https://www.blackvisionsmn.org/">Black Visions Collective</a></li>
-    <li><a href="https://linktr.ee/FORTHEGWORLSPARTY">For the Gworls</a></li>
-    <li><a href="https://www.theokraproject.com/">The Okra Project</a></li>
-</ul>
-
-
-
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rbondoc96&count_private=true&show_icons=true&theme=tokyonight&hide=stars">
