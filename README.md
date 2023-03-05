@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=03EDF7&center=true&vCenter=true&width=435&lines=Full-stack+software+engineer...;Developing+web+and+mobile+apps...;...and+always+learning+new+things!">
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=03EDF7&center=true&vCenter=true&width=435&lines=Full-stack+software+engineer...;developing+web+and+mobile+apps...;...and+always+learning+new+things!">
 </p>
 
 <p align="center">
