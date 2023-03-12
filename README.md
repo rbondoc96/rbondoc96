@@ -136,12 +136,12 @@ I currently work for a software and app development firm, developing web and mob
 <!--START_SECTION:waka-->
 
 ```text
-Rust         21 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   36.81 %
-TypeScript   12 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
-Markdown     7 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-YAML         5 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Docker       4 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Vue.js       2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Rust         21 hrs 49 mins  █████████▒░░░░░░░░░░░░░░░   37.55 %
+TypeScript   12 hrs 41 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
+YAML         5 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Docker       4 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Markdown     4 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JSON         3 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
 ```
 
 <!--END_SECTION:waka-->
