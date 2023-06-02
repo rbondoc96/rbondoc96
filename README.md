@@ -135,7 +135,7 @@ I currently work for a software and app development firm, developing web and mob
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 PHP          5 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.95 %
 TypeScript   5 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.93 %
 Rust         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
