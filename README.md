@@ -138,11 +138,11 @@ I currently work for a software and app development firm, developing web and mob
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             15 hrs 19 mins  █████████▓░░░░░░░░░░░░░░░   38.40 %
-PHP              9 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-JavaScript       5 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
-Docker           1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-TypeScript       1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Rust             15 hrs 19 mins  █████████████░░░░░░░░░░░░   51.92 %
+PHP              3 hrs 26 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+JavaScript       2 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Docker           1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TypeScript       1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
 ```
 
 <!--END_SECTION:waka-->
