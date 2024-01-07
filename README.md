@@ -141,8 +141,8 @@ I currently work for a software and app development firm, developing web and mob
 TypeScript   8 hrs 7 mins    ████████████████▒░░░░░░░░   65.73 %
 PHP          4 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   34.07 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Rust         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
