@@ -138,11 +138,11 @@ I currently work for a software and app development firm, developing web and mob
 <!--START_SECTION:waka-->
 
 ```txt
-Python       14 hrs 58 mins  ██████████░░░░░░░░░░░░░░░   39.76 %
-TypeScript   12 hrs 17 mins  ████████░░░░░░░░░░░░░░░░░   32.66 %
-PHP          5 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Vue.js       2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-JSON         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+TypeScript   11 hrs 43 mins  █████████░░░░░░░░░░░░░░░░   36.03 %
+Python       11 hrs 41 mins  █████████░░░░░░░░░░░░░░░░   35.92 %
+PHP          5 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+Vue.js       2 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
