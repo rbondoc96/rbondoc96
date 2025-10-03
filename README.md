@@ -8,6 +8,12 @@
 
 Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, California. I specialize in developing web and mobile applications.
 
+<p align="center">
+    <a target="_blank" href="https://bsky.app/profile/rbondoc.dev">
+        <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
+    </a>
+</p>
+
 ### 👨🏽‍💻 I'm Most Comfortable With...
 
 ##### 📋 Languages
@@ -19,6 +25,7 @@ Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, Cal
 </div>
 
 <div>
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
@@ -57,13 +64,17 @@ Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, Cal
 
 ##### 🤖 Artificial Intelligence
 
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+<div>
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+    <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+</div>
 
 ##### 💻 IDEs/Editors
 
 <div>
+    <img alt="NeoVim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-    <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
+    <img alt="PHPStorm" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid">
 </div>
 
 ##### ☁️ Hosting
@@ -76,8 +87,8 @@ Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, Cal
 ##### Other Tools
 
 <div>
+    <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" >
     <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
 </div>
 
 ---
@@ -92,7 +103,6 @@ Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, Cal
 <div>
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img alt="Rust" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
 </div>
 
