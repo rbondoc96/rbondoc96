@@ -140,11 +140,11 @@ Hey there! 👋🏽 I'm Rodrigo, a software engineer based in San Francisco, Cal
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 47 mins        ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-Vue.js       6 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Bash         5 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-PHP          5 hrs 13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Markdown     3 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+TypeScript   13 hrs 44 mins        ███████▒░░░░░░░░░░░░░░░░░   29.57 %
+Vue.js       6 hrs 48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+Bash         5 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+PHP          5 hrs 13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Markdown     3 hrs 45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
